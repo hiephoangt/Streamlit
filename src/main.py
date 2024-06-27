@@ -5,7 +5,7 @@ if __name__ == '__main__':
     st.title('Word Correction')
     word = st.text_input("Your Word")
     vocabs = ld.load_vocab(
-        r"D:\Github\AIO_project\Word-Correction\.github\workflows\data\vocab.txt")
+        r"D:\Github\AIO_project\Word-Correction\data\vocab.txt")
 
     if st.button('Compute'):
         distances = dict()
