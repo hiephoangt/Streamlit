@@ -43,12 +43,13 @@ This project uses Levenshtein distance to provide word correction functionalitie
 ![Correction Word](./data/word_correction.png)
 ### Object Detection
 This project implements object detection using pre-trained models. It allows users to upload images and the application will identify and label objects within the image.
+
 ![Correction Word](./data/objectdetection.png)
 
 ### Chatbot
 The Chatbot project leverages Hugging Chat to create an interactive chatbot. Users can have real-time conversations with the chatbot, which utilizes advanced natural language processing models.
-![Correction Word](./data/chatbot.png)
 
+![Correction Word](./data/chatbot.png)
 ## Usage
 
 To run any of the projects, navigate to the respective directory and start the Streamlit application:
