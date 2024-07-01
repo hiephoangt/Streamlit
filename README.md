@@ -40,12 +40,14 @@ Welcome to the Streamlit Projects repository! This repository contains three sma
 
 ### Correction Word
 This project uses Levenshtein distance to provide word correction functionalities. It takes an input word from the user and suggests corrections based on the closest matches.
-
+![Correction Word](D:\Github\AIO_project\Streamlit\data\word_correction.png)
 ### Object Detection
 This project implements object detection using pre-trained models. It allows users to upload images and the application will identify and label objects within the image.
+![Correction Word](D:\Github\AIO_project\Streamlit\data\objectdetection.png)
 
 ### Chatbot
 The Chatbot project leverages Hugging Chat to create an interactive chatbot. Users can have real-time conversations with the chatbot, which utilizes advanced natural language processing models.
+![Correction Word](D:\Github\AIO_project\Streamlit\data\chatbot.png)
 
 ## Usage
 
